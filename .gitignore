@@ -1,0 +1,8 @@
+# Ignore environment file
+.env
+
+# Ignore CSV files generated
+*.csv
+
+# Ignore Python cache
+__pycache__/
