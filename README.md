@@ -69,7 +69,7 @@ news_dashboard/
 ---
 
 ## Dashboard Preview
-![Dashboard Preview](screenshots/news_dashboard_preview.pdf)
+![Dashboard Preview](Interactive-News-Dashboard/news_dashboard_preview.pdf)
 
 ---
 
