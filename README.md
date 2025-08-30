@@ -38,6 +38,9 @@ NEWS_API_KEY=47cf5113d643461987b560412f147f77
 2. Run the dashboard using Streamlit:
 
 ```bash
+git clone https://github.com/Ibrah1m18/Interactive-News-Dashboard.git
+cd Interactive-News-Dashboard
+pip install -r requirements.txt
 streamlit run news_dashboard.py
 ```
 
