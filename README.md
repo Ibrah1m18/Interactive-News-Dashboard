@@ -52,6 +52,16 @@ streamlit run news_dashboard.py
 ```
 news_{keyword}_{country}.csv
 ```
+---
+
+## Quick Start
+
+```bash
+git clone https://github.com/Ibrah1m18/Interactive-News-Dashboard.git
+cd Interactive-News-Dashboard
+pip install -r requirements.txt
+streamlit run news_dashboard.py
+```
 
 ---
 
